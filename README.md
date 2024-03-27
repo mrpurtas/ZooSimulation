@@ -1,4 +1,4 @@
-# Hayvan Etkileşim Simülasyonu
+# Hayvanat Bahçesi Etkileşim Simülasyonu
 ## Genel Bakış
 
 Bu Python simülasyonu, farklı hayvan türlerinin ve bir avcının etkileşimlerini modelleyen bir ekosistem simülasyonudur. Simülasyon, hayvanların hareket etmesi, üremesi ve avlanması gibi temel etkileşimleri içerir. Avcılar da belirli bir avlanma mesafesi içindeki avları tespit edip avlayabilir.
