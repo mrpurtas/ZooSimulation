@@ -25,7 +25,7 @@ Simülasyon, standart Python kütüphaneleri ile yazılmıştır, bu yüzden her
 Simülasyon dosyasının bulunduğu dizinde terminal veya komut istemcisini açın ve aşağıdaki komutu çalıştırın:
 
 ```bash
-python diatics_zoo_case.py
+python simulation.py
 ```
 
 Simülasyon otomatik olarak başlayacak ve sonuçları `simulation_output.txt` dosyasına yazdıracaktır.
@@ -34,7 +34,7 @@ Simülasyon otomatik olarak başlayacak ve sonuçları `simulation_output.txt` d
 
 ## Dosya Açıklamaları
 
-- `diatics_zoo_case.py`: Simülasyonun ana Python betiği.
+- `simulation.py`: Simülasyonun ana Python betiği.
 - `simulation_output.txt`: Simülasyonun hareket üreme ve avlanmaya dair tüm çıktılarının, karakterlerin ID'leriyle beraber yazıldığı dosya.
 
 &nbsp;
